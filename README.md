@@ -4,16 +4,15 @@ initiating "encounters" and determining outcomes based on correct input from the
 includes a code-side ajustable timer to change the speed of reactive events with the intended progression to involve non-hostile interactions
 as varried entities within those interactions.
 
-[[Software Demo Video]](https://youtu.be/e-0bqncVTMk)
-
+https://youtu.be/e-0bqncVTMk
 # Development Environment
 
 This was programmed in the Visual Studio Code environment in the C# language making use of object-oriented programming.
 
 # Useful Websites
 
-- [Web Site Name] [https://www.w3schools.com/cs/cs_intro.php]
-- [Web Site Name] [https://www.geeksforgeeks.org/c-sharp-tutorial/]
+- https://www.w3schools.com/cs/cs_intro.php
+- https://www.geeksforgeeks.org/c-sharp-tutorial/
 
 # Future Work
 
